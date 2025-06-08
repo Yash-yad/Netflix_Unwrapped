@@ -58,7 +58,7 @@ This project covers the following key analytics tasks:
 
 
 ## 📊 Power BI Dashboard
-![Netflix Dashboard](4f2f7076-017b-4008-95f1-9904a72b303b.png)
+
 
 ### Dashboard Highlights:
 This interactive dashboard created in Power BI visually represents the cleaned Netflix dataset and offers insightful views such as:
