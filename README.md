@@ -58,7 +58,6 @@ This project covers the following key analytics tasks:
 
 
 ## 📊 Power BI Dashboard
-
 ![Netflix Dashboard](4f2f7076-017b-4008-95f1-9904a72b303b.png)
 
 ### Dashboard Highlights:
